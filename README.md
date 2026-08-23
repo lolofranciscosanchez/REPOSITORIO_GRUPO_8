@@ -105,7 +105,7 @@ Cada ítem de configuración se clasifica en una de tres categorías:
 
 | Sigla / Placeholder | Significado |
 |---------------------|-------------|
-| `<N_Clase>` | Número que identifica la clase teorica a la cual correspone la presetacion. Ej: `01`, `02`, etc. |
+| `<N_Clase>` | Número que identifica la clase teórica a la cual corresponde la presetación. Ej: `01`, `02`, etc. |
 | `<N>` | Número incremental que identifica el Trabajo Práctico. Ej: `01`, `02`, etc. |
 | `<Nombre_Tema>` | Nombre o título del tema correspondiente al material o trabajo práctico. |
 | `<Nombre_Material>` | Nombre o título del libro/paper de bibliografía. |
