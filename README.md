@@ -83,10 +83,16 @@ Cada ítem de configuración se clasifica en una de tres categorías:
 
 | Ítem de configuración | Tipo | Regla de nombrado | Ubicación física |
 |------------------------|------|-------------------|------------------|
-| Programa de la asignatura | De cátedra | `Programa_Asignatura_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
-| Cronograma de cursada | De cátedra | `Cronograma_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
-| Bibliografía | De cátedra | `<Nombre_Material>-<Nombre_Autor>-<Año>.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Teorico/Bibliografia/` |
-| Presentaciones de clase | De clase | `<N>_<Nombre_Tema>.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Teorico/Presentaciones_de_clase/` |
+| Planificacion de la asignatura | De cátedra | `Planificacion-Asignatura_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
+| Material de apoyo para parciales | De cátedra | `Material-de-apoyo-para-Parciales_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
+| Presentacion de la cátedra | De cátedra | `Presentacion-de-Catedra_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
+| Pautas para enviar mail | De cátedra | `Pautas-para-enviar-mails_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
+| Cronograma de cursada | De cátedra | `Cronograma_ISW_2026.xlsx` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
+| Clases grabadas | De cátedra | `Clases-grabadas-2021_ISW_2026.xlsx` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
+| Bibliografía | De cátedra | `<Nombre-Material>_<Apellido-Autor>_<Año>.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Teorico/Bibliografia/` |
+| Presentaciones de clase | De clase | `<N_Clase>_<Nombre-Tema>.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Teorico/Presentaciones_de_clase/` |
+| Enunciados de TPs | De cátedra | `Enunciados-TPs_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Practico/` |
+| Guía de TPs resueltos | De cátedra | `Guia-TPs-Resueltos_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Practico/` |
 | Material práctico (guías, enunciados de la cátedra) | De clase | `Guia_TP<N>_<Nombre_Tema>.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Practico/` |
 | Templates para ejercicios | De cátedra | `Template_<Nombre_Ejercicio>.docx` | `REPOSITORIO_GRUPO_8/Catedra/Practico/` |
 | Resúmenes propios del grupo | De producción propia | `Resumen_<Nombre_Tema>_<Apellido_Alumno>.<Extension>` | `REPOSITORIO_GRUPO_8/Material_propio/Resumenes/` |
@@ -99,10 +105,11 @@ Cada ítem de configuración se clasifica en una de tres categorías:
 
 | Sigla / Placeholder | Significado |
 |---------------------|-------------|
-| `<N>` | Número incremental que identifica el Trabajo Práctico o el orden del material. Ej: `01`, `02`, etc. |
+| `<N_Clase>` | Número que identifica la clase teorica a la cual correspone la presetacion. Ej: `01`, `02`, etc. |
+| `<N>` | Número incremental que identifica el Trabajo Práctico. Ej: `01`, `02`, etc. |
 | `<Nombre_Tema>` | Nombre o título del tema correspondiente al material o trabajo práctico. |
 | `<Nombre_Material>` | Nombre o título del libro/paper de bibliografía. |
-| `<Nombre_Autor>` | Nombre del autor del material de bibliografía. |
+| `<Apellido_Autor>` | Apellido(s) del/los autor(es) del material de bibliografía. |
 | `<Año>` | Año de publicación del material de bibliografía. |
 | `<Nombre_Ejercicio>` | Nombre o especificación del ejercicio al que está dirigido el template. |
 | `<Apellido_Alumno>` | Apellido del integrante que elaboró el resumen. |
