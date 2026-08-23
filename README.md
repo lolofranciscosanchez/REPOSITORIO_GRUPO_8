@@ -31,21 +31,21 @@ trabajos de investigación y gestión de configuración del software (SCM).
 
 | # | Integrante | Legajo |
 |:-:|------------|:------:|
-| 1 | Alabe, Ulises | 91166 |
-| 2 | Dapuez, Eliseo | 91625 |
-| 3 | Abaca, Valentina | 97884 |
-| 4 | De Goycoechea, Mateo | 85203 |
-| 5 | Mercado, Lucas | 82904 |
-| 6 | Bencivenga, Carlos Martin | 97244 |
-| 7 | Blanco, Lisandro | 60634 |
-| 8 | Malizia Pacheco, Matias | 407901 |
-| 9 | Sánchez, Francisco | 90183 |
-| 10 | Sosa, Mateo | 97716 |
-| 11 | Barzola, Augusto | 59247 |
-| 12 | Pacheco, Agustin | 92779 |
+| 1 | Abaca, Valentina | 97884 |
+| 2 | Alabe, Ulises | 91166 |
+| 3 | Amado, Marco | 57572 |
+| 4 | Barzola, Augusto | 59247 |
+| 5 | Bencivenga, Carlos Martin | 97244 |
+| 6 | Blanco, Lisandro | 60634 |
+| 7 | Dapuez, Eliseo | 91625 |
+| 8 | De Goycoechea, Mateo | 85203 |
+| 9 | Malizia Pacheco, Matias | 407901 |
+| 10 | Mercado, Lucas | 82904 |
+| 11 | Pacheco, Agustin | 92779 |
+| 12 | Pahud, Fernando | 61175 |
 | 13 | Popoff, Agustin | 88588 |
-| 14 | Pahud, Fernando | 61175 |
-| 15 | Amado, Marco | 57572 |
+| 14 | Sánchez, Francisco | 90183 |
+| 15 | Sosa, Mateo | 97716 |
 
 ---
 
