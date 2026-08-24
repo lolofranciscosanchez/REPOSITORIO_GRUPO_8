@@ -10,7 +10,6 @@ trabajos de investigación y gestión de configuración del software (SCM).
 ![Grupo](https://img.shields.io/badge/Grupo-8-success)
 ![Año](https://img.shields.io/badge/A%C3%B1o-2026-informational)
 ![Integrantes](https://img.shields.io/badge/Integrantes-13-orange)
-![Última línea base](https://img.shields.io/badge/L%C3%ADnea%20base-v1.0-blue)
 
 </div>
 
