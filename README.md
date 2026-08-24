@@ -53,20 +53,20 @@ trabajos de investigación y gestión de configuración del software (SCM).
 
 ```text
 └── REPOSITORIO_GRUPO_8
-    ├── 📁 Catedra/
-    │   ├── 📁 Informacion_de_catedra/
-    │   ├── 📁 Practico/
-    │   └── 📁 Teorico/
-    │       ├── 📁 Bibliografia/
-    │       └── 📁 Presentaciones_de_clase/
+    ├── 📁 catedra/
+    │   ├── 📁 informacion_de_catedra/
+    │   ├── 📁 practico/
+    │   └── 📁 teorico/
+    │       ├── 📁 bibliografia/
+    │       └── 📁 presentaciones_de_clase/
     │
-    ├── 📁 Material_propio/
-    │   ├── 📁 Resumenes/
-    │   ├── 📁 Trabajos_practicos/
-    │   │   ├── 📁 TP1/
-    │   │   ├── 📁 TP2/
-    │   │   └── 📁 TP<N>/
-    │   └── 📁 Trabajos_Investigacion_Grupal/
+    ├── 📁 material_propio/
+    │   ├── 📁 resumenes/
+    │   ├── 📁 trabajos_investigacion_grupal/
+    │   ├── 📁 trabajos_practicos/
+    │       ├── 📁 tp1/
+    │       ├── 📁 tp2/
+    │       └── 📁 tp<N>/
     │
     └── 📄 README.md
 ```
