@@ -128,7 +128,6 @@ Cada ítem de configuración se clasifica en una de dos categorías:
 | `isw` | Ingeniería y Calidad de Software. |
 | `tp` | Trabajo Práctico. |
 | `tig` | Trabajo de Investigación Grupal. |
-| `g8` | Grupo 8. |
 | `rg8` | Repositorio Grupo 8. |
 | **De cátedra** | Ítem provisto directamente por la cátedra (programa, cronograma, bibliografía, presentaciones, guías). |
 | **De producción propia** | Ítem generado por el grupo para aprobar la materia (resúmenes, TPs resueltos, trabajo de investigación). |
