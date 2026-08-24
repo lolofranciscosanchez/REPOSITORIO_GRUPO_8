@@ -58,13 +58,13 @@ trabajos de investigación y gestión de configuración del software (SCM).
     │   ├── 📁 practico/
     │   └── 📁 teorico/
     │       ├── 📁 bibliografia/
-    │       │   ├── 📁 <nombre_tema>/
+    │       │   └── 📁 <nombre_tema>/
     │       └── 📁 presentaciones_de_clase/
     │
     ├── 📁 material_propio/
     │   ├── 📁 resumenes/
     │   ├── 📁 trabajos_investigacion_grupal/
-    │   ├── 📁 trabajos_practicos/
+    │   └── 📁 trabajos_practicos/
     │       ├── 📁 tp1/
     │       ├── 📁 tp2/
     │       └── 📁 tp<n>/
