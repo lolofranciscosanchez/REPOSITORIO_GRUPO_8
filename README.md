@@ -58,6 +58,7 @@ trabajos de investigación y gestión de configuración del software (SCM).
     │   ├── 📁 practico/
     │   └── 📁 teorico/
     │       ├── 📁 bibliografia/
+    │       │   ├── 📁 <Nombre_Tema>/
     │       └── 📁 presentaciones_de_clase/
     │
     ├── 📁 material_propio/
@@ -83,21 +84,22 @@ Cada ítem de configuración se clasifica en una de tres categorías:
 
 | Ítem de configuración | Tipo | Regla de nombrado | Ubicación física |
 |------------------------|------|-------------------|------------------|
-| Planificacion de la asignatura | De cátedra | `Planificacion-Asignatura_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
-| Material de apoyo para parciales | De cátedra | `Material-de-apoyo-para-Parciales_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
-| Presentacion de la cátedra | De cátedra | `Presentacion-de-Catedra_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
-| Pautas para enviar mail | De cátedra | `Pautas-para-enviar-mails_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
-| Cronograma de cursada | De cátedra | `Cronograma_ISW_2026.xlsx` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
-| Clases grabadas | De cátedra | `Clases-grabadas-2021_ISW_2026.xlsx` | `REPOSITORIO_GRUPO_8/Catedra/Informacion_de_catedra/` |
-| Bibliografía | De cátedra | `<Nombre-Material>_<Apellido-Autor>_<Año>.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Teorico/Bibliografia/` |
-| Presentaciones de clase | De clase | `<N_Clase>_<Nombre-Tema>.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Teorico/Presentaciones_de_clase/` |
-| Enunciados de TPs | De cátedra | `Enunciados-TPs_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Practico/` |
-| Guía de TPs resueltos | De cátedra | `Guia-TPs-Resueltos_ISW_2026.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Practico/` |
-| Material práctico (guías, enunciados de la cátedra) | De clase | `Guia_TP<N>_<Nombre_Tema>.pdf` | `REPOSITORIO_GRUPO_8/Catedra/Practico/` |
-| Templates para ejercicios | De cátedra | `Template_<Nombre_Ejercicio>.docx` | `REPOSITORIO_GRUPO_8/Catedra/Practico/` |
-| Resúmenes propios del grupo | De producción propia | `Resumen_<Nombre_Tema>_<Apellido_Alumno>.<Extension>` | `REPOSITORIO_GRUPO_8/Material_propio/Resumenes/` |
-| Trabajos prácticos resueltos por el grupo | De producción propia | `TP<N>_<Nombre_Tema>_G8.<Extension>` | `REPOSITORIO_GRUPO_8/Material_propio/Trabajos_practicos/TP<N>/` |
-| Trabajo de Investigación Grupal | De producción propia | `TIG_<Nombre_Tema>_G8.<Extension>` | `REPOSITORIO_GRUPO_8/Material_propio/Trabajos_Investigacion_Grupal/` |
+| Planificacion de la asignatura | De cátedra | `rg8_planificacion_asignatura_isw_2026.pdf` | `REPOSITORIO_GRUPO_8/catedra/informacion_de_catedra/` |
+| Material de apoyo para parciales | De cátedra | `rg8_material_de_apoyo_para_parciales_isw_2026.pdf` | `REPOSITORIO_GRUPO_8/catedra/informacion_de_catedra/` |
+| Presentación de la cátedra | De cátedra | `rg8_presentacion_de_catedra_isw_2026.pdf` | `REPOSITORIO_GRUPO_8/catedra/informacion_de_catedra/` |
+| Pautas para enviar mail | De cátedra | `rg8_pautas_para_enviar_mails_isw_2026.pdf` | `REPOSITORIO_GRUPO_8/catedra/informacion_de_catedra/` |
+| Cronograma de cursada | De cátedra | `rg8_cronograma_isw_2026.xlsx` | `REPOSITORIO_GRUPO_8/catedra/informacion_de_catedra/` |
+| Clases grabadas | De cátedra | `rg8_clases_grabadas_2021_isw_2026.xlsx` | `REPOSITORIO_GRUPO_8/catedra/informacion_de_catedra/` |
+| Bibliografía | De cátedra | `rg8_<nombre_material>_<apellido_autor>_<año>.pdf` | `REPOSITORIO_GRUPO_8/catedra/teorico/bibliografia/<nombre_tema>/` |
+| Presentaciones de clase | De clase | `rg8_<n_clase>_<nombre_tema>.pdf` | `REPOSITORIO_GRUPO_8/catedra/teorico/presentaciones_de_clase/` |
+| Enunciados de TPs | De cátedra | `rg8_enunciados_tps_isw_2026.pdf` | `REPOSITORIO_GRUPO_8/catedra/practico/` |
+| Guía de TPs resueltos | De cátedra | `rg8_guia_tps_resueltos_isw_2026.pdf` | `REPOSITORIO_GRUPO_8/catedra/practico/` |
+| Material práctico (guías, enunciados de la cátedra) | De cátedra | `rg8_guia_tp<n>_<nombre_tema>.pdf` | `REPOSITORIO_GRUPO_8/catedra/practico/` |
+| Templates para ejercicios | De cátedra | `rg8_template_<nombre_ejercicio>.docx` | `REPOSITORIO_GRUPO_8/catedra/practico/` |
+| Resúmenes propios del grupo | De producción propia | `rg8_resumen_<nombre_tema>_<apellido_alumno>.pdf/.docx` | `REPOSITORIO_GRUPO_8/material_propio/resumenes/` |
+| Trabajos prácticos resueltos por el grupo | De producción propia | `rg8_tp<n>_<nombre_tema>_g8.docx/.pdf/.xlsx` | `REPOSITORIO_GRUPO_8/material_propio/trabajos_practicos/tp<n>/` |
+| Lineamientos para el trabajo de investigación grupal | De cátedra | `rg8_lineamientos_para_trabajos_de_investigacion.pdf` | `REPOSITORIO_GRUPO_8/material_propio/trabajos_investigacion_grupal/` |
+| Trabajo de Investigación Grupal | De producción propia | `rg8_tig_<nombre_tema>_g8.docx/.pdf` | `REPOSITORIO_GRUPO_8/material_propio/trabajos_investigacion_grupal/` |
 
 ---
 
