@@ -79,7 +79,7 @@ trabajos de investigación y gestión de configuración del software (SCM).
     │   ├── 📁 trabajos_investigacion_grupal/
     │   └── 📁 trabajos_practicos/
     │       └── 📁 tp<n>/
-    │
+    |
     └── 📄 README.md
 ```
 
@@ -104,7 +104,6 @@ Cada ítem de configuración se clasifica en una de dos categorías:
 | Presentaciones de clase | De cátedra | `rg8_<n_clase>_<nombre_tema>.pdf` | `REPOSITORIO_GRUPO_8/catedra/teorico/presentaciones_de_clase/` |
 | Enunciados de TPs | De cátedra | `rg8_enunciados_tps_isw_2026.pdf` | `REPOSITORIO_GRUPO_8/catedra/practico/` |
 | Guía de TPs resueltos | De cátedra | `rg8_guia_tps_resueltos_isw_2026.pdf` | `REPOSITORIO_GRUPO_8/catedra/practico/` |
-| Material práctico (guías, enunciados de la cátedra) | De cátedra | `rg8_guia_tp<n>_<nombre_tema>.pdf` | `REPOSITORIO_GRUPO_8/catedra/practico/` |
 | Templates para ejercicios | De cátedra | `rg8_template_<nombre_ejercicio>.docx/.xlsx` | `REPOSITORIO_GRUPO_8/catedra/practico/` |
 | Resúmenes propios del grupo | De producción propia | `rg8_resumen_<nombre_tema>_<apellido_alumno>.docx/.pdf/.xlsx/.jpg/.png/.jpeg` | `REPOSITORIO_GRUPO_8/material_propio/resumenes/` |
 | Trabajos prácticos resueltos por el grupo | De producción propia | `rg8_tp<n>_<nombre_tema>_g8.docx/.pdf/.xlsx/.jpg/.png/.jpeg` | `REPOSITORIO_GRUPO_8/material_propio/trabajos_practicos/tp<n>/` |
@@ -138,10 +137,9 @@ Cada ítem de configuración se clasifica en una de dos categorías:
 
 Como grupo definimos que la **línea base** se establece cada vez que la cátedra **corrige** un Trabajo Práctico evaluable, estableciendo un punto de referencia en el que los trabajos prácticos están terminados y corregidos.
 
-Cada línea base se marca mediante un **tag de Git** en el repositorio y utiliza la nomenclatura **`v[MAJOR].[MINOR]`**, donde:
+Cada línea base se marca mediante un **tag de Git** en el repositorio y utiliza la nomenclatura **`v[MAJOR]`**.
 
 - **`MAJOR`** → se incrementa cada vez que se recibe la corrección de un nuevo Trabajo Práctico evaluable. El valor `1` corresponde al estado inicial del repositorio (antes de cualquier corrección).
-- **`MINOR`** → se incrementa si sobre esa misma corrección se realizan ajustes o ampliaciones adicionales antes de recibir una nueva corrección de otro TP.
 
 ---
 
@@ -149,7 +147,9 @@ Cada línea base se marca mediante un **tag de Git** en el repositorio y utiliza
 
 | Versión | Tag de Git | Fecha | Descripción |
 |:-------:|:----------:|:-----:|-------------|
-|  |  |  |  |
+| v1 | v.1 | 4/09/2026 | Línea base inicial del repositorio para el TP evaluable 4. |
+| v2 | v.2 | 4/09/2026 | Línea base del repositorio para el TP evaluable 4 corregido. |
+
 
 > _Esta tabla se irá completando a medida que la cátedra corrija cada Trabajo Práctico evaluable._
 
