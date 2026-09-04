@@ -147,8 +147,8 @@ Cada línea base se marca mediante un **tag de Git** en el repositorio y utiliza
 
 | Versión | Tag de Git | Fecha | Descripción |
 |:-------:|:----------:|:-----:|-------------|
-| v1 | v.1 | 4/09/2026 | Línea base inicial del repositorio para el TP evaluable 4. |
-| v2 | v.2 | 4/09/2026 | Línea base del repositorio para el TP evaluable 4 corregido. |
+| v1 | v1 | 4/09/2026 | Línea base inicial del repositorio para el TP evaluable 4. |
+| v2 | v2 | 4/09/2026 | Línea base del repositorio para el TP evaluable 4 corregido. |
 
 
 > _Esta tabla se irá completando a medida que la cátedra corrija cada Trabajo Práctico evaluable._
