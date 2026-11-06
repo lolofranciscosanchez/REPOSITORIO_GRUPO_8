@@ -151,6 +151,7 @@ Cada línea base se marca mediante un **tag de Git** en el repositorio y utiliza
 | v2 | v2 | 4/09/2026 | Línea base del repositorio para el TP evaluable 4 corregido. |
 | v3 | v3 | 8/10/2026 | Línea base del repositorio para el TP evaluable 7 corregido. |
 | v4 | v4 | 2/11/2026 | Línea base del repositorio para el TP evaluable 6 corregido. |
+| v5 | v5 | 6/11/2026 | Línea base del repositorio para el TP evaluable 12 corregido. |
 
 
 > _Esta tabla se irá completando a medida que la cátedra corrija cada Trabajo Práctico evaluable._
